@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Francis 👋
+**Petroleum Engineer (B.Eng., FUTO) · Technical & Content Writer · Regulatory Affairs — Lagos, Nigeria.**
+I evaluate technical documents for a living and build small, honest tools on the side.
 
-<!--
-**onwefrancis/onwefrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Currently building: **Aptframe** — AI prompt-builder web app (Next.js · TypeScript · Supabase · Gemini API)
+  → live: https://aptframe-beta.netlify.app/generator
+- 🌐 Portfolio: https://onwefrancis.netlify.app
+- 📚 Background: NAFDAC regulatory compliance · upstream production ops (NUPRC) · drilling-fluids lab research
+- ✍️ 3+ years freelance technical writing
+- 🌱 Learning in public: applied web dev, AI tooling, promptcraft
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Express placeholders, never invent facts."*
